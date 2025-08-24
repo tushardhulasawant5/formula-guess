@@ -28,7 +28,7 @@ const formulaList = [
     explanation: "Lift depends on air density, velocity, wing area and lift coefficient."
   },
   {
-    formula: "E = mc²",
+    formula: "_ = mc²",
     answer: "E",
     hint: "Einstein’s equation",
     fullFormula: "E = mc²",
